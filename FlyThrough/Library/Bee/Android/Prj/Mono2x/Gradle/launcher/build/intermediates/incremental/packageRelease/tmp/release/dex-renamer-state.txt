@@ -1,0 +1,4 @@
+#Thu Jun 09 13:32:46 IST 2022
+base.0=D\:\\Git Repositories\\Fly-Through\\FlyThrough\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
